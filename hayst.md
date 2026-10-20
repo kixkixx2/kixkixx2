@@ -80,6 +80,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1&animation=twinkling&height=100&section=footer" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kixkixx2&color=00f5d4&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
