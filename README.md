@@ -12,7 +12,7 @@
         </a>
       </p>
       <p align="left">
-        <a href="https://jstin.me"><img src="https://img.shields.io/badge/Portfolio-jstin.me-00f5d4?style=flat-square&logo=google-chrome&logoColor=000&labelColor=0a0a0f" alt="Portfolio" /></a>
+        <a href="https://jastin-s-portfolio-v1"><img src="https://kixkixx2.github.io/jastin-s-portfolio-v1/" alt="Portfolio" /></a>
         <a href="https://kixkixx2.github.io/resume/"><img src="https://img.shields.io/badge/Resume-Online-7b2cbf?style=flat-square&logo=read-the-docs&logoColor=white&labelColor=0a0a0f" alt="Resume" /></a>
         <a href="https://github.com/kixkixx2?tab=followers"><img src="https://img.shields.io/github/followers/kixkixx2?label=Followers&style=flat-square&color=00f5d4&labelColor=0a0a0f" alt="Followers" /></a>
       </p>
