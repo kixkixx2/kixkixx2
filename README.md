@@ -41,8 +41,8 @@
 
 ---
 
-### 🛠️ Tech Stack & Tooling
-<sub>💡 <em>Click any card below to flip and reveal the stack</em></sub>
+###  Tech Stack & Tooling
+<sub> <em>Click any card below to flip and reveal the stack</em></sub>
 
 <table width="100%">
   <tr>
@@ -51,9 +51,9 @@
       <details>
         <summary style="cursor: pointer; list-style: none;">
           <br/>
-          <img src="https://img.shields.io/badge/💻_Core_Languages-Flip_Card-00f5d4?style=for-the-badge&labelColor=0a0a0f" alt="Languages Card" />
+          <img src="https://img.shields.io/badge/_Core_Languages-Flip_Card-00f5d4?style=for-the-badge&labelColor=0a0a0f" alt="Languages Card" />
           <br/><br/>
-          <sub>🔄 <em>Click to reveal</em></sub>
+          <sub> <em>Click to reveal</em></sub>
         </summary>
         <hr/>
         <p align="center">
@@ -90,7 +90,7 @@
       <details>
         <summary style="cursor: pointer; list-style: none;">
           <br/>
-          <img src="https://img.shields.io/badge/🤖_AI,_ML_&_Tools-Flip_Card-00f5d4?style=for-the-badge&labelColor=0a0a0f" alt="Workflows Card" />
+          <img src="https://img.shields.io/badge/_AI,_ML_&_Tools-Flip_Card-00f5d4?style=for-the-badge&labelColor=0a0a0f" alt="Workflows Card" />
           <br/><br/>
           <sub>🔄 <em>Click to reveal</em></sub>
         </summary>
